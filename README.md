@@ -7,3 +7,4 @@ Barracuda : http://www.barracudacentral.org/rbl/removal-request
 
 Spamhaus : https://www.spamhaus.org/lookup/
 
+Sky RBL : http://psky.me/check/
